@@ -1,7 +1,4 @@
-# ML-Perceptron
-Machine Learning - Perceptron Supervised Learning
-
-# Machine Learning -Perceptron - Perceptron Supervised Learning Algorithm
+# Machine Learning - Perceptron Supervised Learning Algorithm
 
 A.I - Implemented AC3, Backtracking and Forward Checking algorithms in combination with Most Constrained Variable (a.k.a MRV) and Least Constraining Value (a.k.a LCV) heuristics. 
 
